@@ -1,0 +1,40 @@
+[02-Apr-2025 15:26:49 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/edit.php
+[02-Apr-2025 15:26:56 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/edit.php
+[09-Apr-2025 14:13:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 7
+[09-Apr-2025 14:17:11 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'code' in 'order clause'
+[09-Apr-2025 14:27:10 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'code' in 'order clause'
+[09-Apr-2025 14:27:12 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/create.php
+[09-Apr-2025 14:40:11 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:11 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:11 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:11 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:11 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:40:12 Europe/Berlin] PHP Warning:  Undefined property: App\Models\ClassModel::$name in F:\Webp\20250319\school_oop\school_oop\app\views\classes\index.php on line 12
+[09-Apr-2025 14:45:24 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/create.php
+[09-Apr-2025 14:47:20 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/create.php
+[09-Apr-2025 14:48:01 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/create.php
+[09-Apr-2025 14:48:10 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/edit.php
+[09-Apr-2025 14:48:20 Europe/Berlin] View not found: F:\Webp\20250319\school_oop\school_oop\app\views\subjects/edit.php
+[09-Apr-2025 14:53:56 Europe/Berlin] PHP Warning:  Undefined variable $classes in F:\Webp\20250319\school_oop\school_oop\app\views\classes\edit.php on line 5
+[09-Apr-2025 14:53:56 Europe/Berlin] PHP Warning:  Attempt to read property "id" on null in F:\Webp\20250319\school_oop\school_oop\app\views\classes\edit.php on line 5
+[09-Apr-2025 14:53:56 Europe/Berlin] PHP Warning:  Undefined variable $classes in F:\Webp\20250319\school_oop\school_oop\app\views\classes\edit.php on line 8
+[09-Apr-2025 14:53:56 Europe/Berlin] PHP Warning:  Attempt to read property "name" on null in F:\Webp\20250319\school_oop\school_oop\app\views\classes\edit.php on line 8
+[09-Apr-2025 14:53:56 Europe/Berlin] PHP Warning:  Undefined variable $classes in F:\Webp\20250319\school_oop\school_oop\app\views\classes\edit.php on line 9
+[09-Apr-2025 14:53:56 Europe/Berlin] PHP Warning:  Attempt to read property "year" on null in F:\Webp\20250319\school_oop\school_oop\app\views\classes\edit.php on line 9
+[09-Apr-2025 15:17:33 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'year' cannot be null
+[09-Apr-2025 15:18:01 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'year' cannot be null
+[09-Apr-2025 15:18:01 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'year' cannot be null
+[09-Apr-2025 15:19:53 Europe/Berlin] PHP Warning:  Undefined variable $class in F:\Webp\20250319\school_oop\school_oop\app\views\classes\create.php on line 9
+[09-Apr-2025 15:19:53 Europe/Berlin] PHP Warning:  Attempt to read property "year" on null in F:\Webp\20250319\school_oop\school_oop\app\views\classes\create.php on line 9
+[09-Apr-2025 15:20:40 Europe/Berlin] PHP Warning:  Undefined variable $classes in F:\Webp\20250319\school_oop\school_oop\app\views\classes\create.php on line 9
+[09-Apr-2025 15:20:40 Europe/Berlin] PHP Warning:  Attempt to read property "year" on null in F:\Webp\20250319\school_oop\school_oop\app\views\classes\create.php on line 9
+[09-Apr-2025 15:21:25 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'year' cannot be null
+[09-Apr-2025 15:21:48 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'year' cannot be null
+[09-Apr-2025 15:22:36 Europe/Berlin] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'year' cannot be null
