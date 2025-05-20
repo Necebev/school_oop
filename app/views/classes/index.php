@@ -1,9 +1,7 @@
 
 
 <?php
-// mi a faszom van má?
 
-// console 0, ja line console, faszom
 $tableBody = "";
 foreach ($classes as $class) {
     $tableBody .= <<<HTML
